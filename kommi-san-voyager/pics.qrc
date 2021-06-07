@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/тест1.png</file>
+        <file>pics/Dialog_Wallpaper.png</file>
+        <file>pics/Dialog_2.png</file>
+        <file>pics/icon.jpg</file>
+        <file>pics/tumblr_pgtifqGtLV1uzwgf4o1_1280.jpg.jpg</file>
+    </qresource>
+</RCC>
